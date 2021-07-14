@@ -13,7 +13,7 @@ My name is Blessing Nathaniel Rweikiza (BlessNathan), welcome to my GitHub accou
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&hide_border=true" align="left"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&hide_border=false&font_size=large" align="left"></p>
 <!-- ![BlessNathan's github stats](https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&theme=&count_private=true) -->
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&theme=merko&count_private=true) -->
 
