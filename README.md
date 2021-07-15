@@ -3,9 +3,9 @@
 My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessnathan01/)), welcome to my GitHub account. 
 
 - 🔭 I’m currently working on [python](https://www.python.org/) and [Jetson NANO](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) projects
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on python and AI projects
-- 💬 Ask me about Artifial Intelligence
+- 🌱 I’m currently learning [Artificial Intelligence](https://github.com/ai-with-nur)
+- 👯 I’m looking to collaborate on [python](https://www.python.org/) and AI projects
+- 💬 Ask me about [Artifial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [blessnathan02@gmail.com](mailto:blessnathan02@gmail.com) 
 - ⚡ Fun fact: I like coding, swimming
