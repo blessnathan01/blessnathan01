@@ -2,13 +2,13 @@
 
 My name is Blessing Nathaniel Rweikiza (BlessNathan), welcome to my GitHub account. 
 
-- 🔭 I’m currently working on python projects
+- 🔭 I’m currently working on python and Jetson NANO projects
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on python and AI projects
 - 💬 Ask me about Artifial Intelligence
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [blessnathan02@gmail.com](mailto:blessnathan02@gmail.com)
-- ⚡ Fun fact: I like swimming
+- 📫 How to reach me: [blessnathan02@gmail.com](mailto:blessnathan02@gmail.com) 
+- ⚡ Fun fact: I like coding, swimming
 <!-- - 🤔 I’m looking for help with ... -->
 
 
