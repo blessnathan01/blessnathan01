@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there ✨
 
-My name is Blessing Nathaniel Rweikiza (BlessNathan), welcome to my GitHub account ✨
+My name is Blessing Nathaniel Rweikiza (BlessNathan), welcome to my GitHub account. 
 
 - 🔭 I’m currently working on python projects
 - 🌱 I’m currently learning Artificial Intelligence
@@ -8,8 +8,9 @@ My name is Blessing Nathaniel Rweikiza (BlessNathan), welcome to my GitHub accou
 - 💬 Ask me about Artifial Intelligence
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [blessnathan02@gmail.com](mailto:blessnathan02@gmail.com)
+- ⚡ Fun fact: I like swimming
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - ⚡ Fun fact: ... -->
+
 
 <br />
 
