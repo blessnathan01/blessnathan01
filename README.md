@@ -5,12 +5,16 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessna
 - 🔭 I’m currently working on [python](https://www.python.org/) projects
 - 🌱 I’m currently learning [Artificial Intelligence](https://github.com/ai-with-nur) and [Jetson NANO](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 - 👯 I’m looking to collaborate on [python](https://www.python.org/) and AI projects
-- 💬 Ask me about [Artifial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- 💬 Ask me about [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [blessnathan02@gmail.com](mailto:blessnathan02@gmail.com) 
 - ⚡ Fun fact: I like coding, swimming
 <!-- - 🤔 I’m looking for help with ... -->
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=blessnathan01)
+[![Python 3.9.6](https://img.shields.io/badge/python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 <br />
 
@@ -18,16 +22,16 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessna
 <!-- ![BlessNathan's github stats](https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&theme=&count_private=true) -->
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&theme=merko&count_private=true) -->
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 
-<table>
+<!-- <table>
   <tr>
     <td>Number of Visitors</td>
     <td><img src="https://profile-counter.glitch.me/blessnathan01/count.svg" alt="" /></td>
   </tr>
-</table>
+</table> -->
 
 <!-- | Number of Visitors | <img src="https://profile-counter.glitch.me/blessnathan01/count.svg" alt="" /> |
 | --- | --- | -->
