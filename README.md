@@ -14,7 +14,7 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessna
 <br />
 
 ![](https://komarev.com/ghpvc/?username=blessnathan01)
-[![Python 3.9.6](https://img.shields.io/badge/python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.9.6](https://img.shields.io/badge/python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-396/)
 
 <br />
 
