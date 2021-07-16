@@ -17,7 +17,6 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessna
 
 [![Python 3.9.6](https://img.shields.io/badge/python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-396/)
 ![](https://visitor-badge.glitch.me/badge?page_id=blessnathan01.blessnathan01)
-[![GitHub: blessnathan01](https://img.shields.io/github/followers/blessnathan01?label=follow&style=social)](https://github.com/blessnathan01)
 [![website](https://img.shields.io/badge/Website-444.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blessnathan01.github.io/tambua/)](https://blessnathan01.github.io/tambua/)
 
 <br />
@@ -46,7 +45,8 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessna
 -->
 
 <!-- [![Linkedin: blessnathan01](https://img.shields.io/badge/-blessnathan01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blessnathan01/)](https://www.linkedin.com/in/blessnathan01/) 
-[![Twitter: blessnathan01](https://img.shields.io/twitter/follow/blessnathan01?style=social)](https://twitter.com/blessnathan01) -->
+[![Twitter: blessnathan01](https://img.shields.io/twitter/follow/blessnathan01?style=social)](https://twitter.com/blessnathan01) 
+[![GitHub: blessnathan01](https://img.shields.io/github/followers/blessnathan01?label=follow&style=social)](https://github.com/blessnathan01)-->
 
 <!-- <table>
   <tr>
