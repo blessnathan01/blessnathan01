@@ -15,6 +15,7 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessna
 
 <br />
 
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 [![Python 3.9.6](https://img.shields.io/badge/python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-396/)
 ![](https://visitor-badge.glitch.me/badge?page_id=blessnathan01.blessnathan01)
 [![website](https://img.shields.io/badge/Website-444.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blessnathan01.github.io/tambua/)](https://blessnathan01.github.io/tambua/)
