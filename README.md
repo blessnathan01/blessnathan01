@@ -4,12 +4,12 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessna
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on [python](https://github.com/blessnathan01/pynathan) and [Artificial Intelligence](https://github.com/ai-with-nur) projects
+- 🔭 I’m currently working on [python](https://github.com/blessnathan01/pynathan) and [Chatbot](https://blessnathan01.github.io/tambua/) projects
 - 🌱 I’m currently learning Artificial Intelligence and [Jetson NANO](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 - 👯 I’m looking to collaborate on [python](https://www.python.org/) and Artificial Intelligence projects
 - 💬 Ask me about [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-- 📫 How to reach me: [blessnathan02@gmail.com](mailto:blessnathan02@gmail.com) 
-- ⚡ Fun fact: I like coding, swimming
+- 📫 How to reach me: [blessnathan02@gmail.com](mailto:blessnathan02@gmail.com) | [pynathan06@gmail.com](mailto:pynathan06@gmail.com)
+- ⚡ Fun fact: I like coding and swimming
 - 😄 Pronouns: He/Him
 <!-- - 🤔 I’m looking for help with ... -->
 
