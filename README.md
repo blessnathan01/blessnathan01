@@ -2,7 +2,7 @@
 
 My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessnathan01/)) and I'm from Tanzania. 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/blessnathan01/pynathan/blob/pytasks/pytasks/coding_from_home.gif" width="230">
 
 - 🔭 I’m currently working on [pynathan](https://github.com/blessnathan01/pynathan) and [Chatbot](https://blessnathan01.github.io/tambua/) projects
 - 🌱 I’m currently learning [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Jetson NANO](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
