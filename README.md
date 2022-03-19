@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://github.com/blessnathan01/)) and based in Tanzania. 
+My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://linktr.ee/blessnathan01)) and based in Tanzania. 
 
 <img align='right' src="https://github.com/blessnathan01/pynathan/blob/pytasks/pytasks/coding_from_home.gif" width="230">
 
