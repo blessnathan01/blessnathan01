@@ -5,7 +5,7 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://linktr.ee/blessnat
 <img align='right' src="https://github.com/blessnathan01/pynathan/blob/pytasks/pytasks/coding_from_home.gif" width="230">
 
 - 🌱 I'm now a ALX full-stack engineer and [Pirple](https://www.pirple.com/) [NodeJS](https://nodejs.org/en/) master class student
-- 🔭 I’m currently working on [software engineering](https://en.wikipedia.org/wiki/Software_engineering) projects and [Power BI](https://powerbi.microsoft.com/en/) as well as [Tableau](https://public.tableau.com/en-us/s/) projects
+- 🔭 I’m currently working on [software engineering](https://en.wikipedia.org/wiki/Software_engineering) projects, [Laravel](https://laravel.com/) projects and [Power BI](https://powerbi.microsoft.com/en/) as well as [Tableau](https://public.tableau.com/en-us/s/) projects
 - 🔭 I was working on [pynathan](https://github.com/blessnathan01/pynathan), JavaScript (using [react.js](https://github.com/reactjs), commerce.js and [stripe.js](https://github.com/stripe/react-stripe-js)) and [Chatbot](https://blessnathan01.github.io/tambua/) projects
 - 👯 I’m looking to collaborate on [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Shell scripting](https://www.shellscript.sh/), [Python](https://www.python.org/), NodeJS and Power Bi as well Tableau projects
 - 💬 Ask me about Software Engineering and Data Virtualization with Power BI as well as Tableau Public 
