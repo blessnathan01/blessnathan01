@@ -13,8 +13,6 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://linktr.ee/blessnat
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 🌱 I’m currently learning [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Jetson NANO](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) -->
 
-<img align='right' src="https://github.com/blessnathan01/pynathan/blob/pytasks/pytasks/coding_from_home.gif" width="230">
-
 <br />
 
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -24,7 +22,7 @@ My name is Blessing Nathaniel Rweikiza ([BlessNathan](https://linktr.ee/blessnat
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&hide_border=true" align=""></p>
+<img src="https://github-readme-stats.vercel.app/api?username=blessnathan01&show_icons=true&hide_border=true" align=""><img align='right' src="https://github.com/blessnathan01/pynathan/blob/pytasks/pytasks/coding_from_home.gif" width="230"></p>
 
 <br />
 
